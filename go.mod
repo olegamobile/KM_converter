@@ -1,4 +1,4 @@
-module Diversey_converter
+module KM_converter
 
 go 1.24.3
 
